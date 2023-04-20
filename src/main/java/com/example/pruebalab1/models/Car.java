@@ -13,6 +13,9 @@ public class Car {
 
     }
 
+    public Car() {
+    }
+
     public String getLicensePlate() {
         return licensePlate;
     }

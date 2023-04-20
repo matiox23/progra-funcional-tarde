@@ -1,5 +1,6 @@
 package com.example.pruebalab1;
 
+import com.example.pruebalab1.models.Car;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -11,7 +12,7 @@ public class PruebaLab1Application {
 
         System.out.println("hola mundo");
 
-
+        Car car = new Car();
 
     }
 
