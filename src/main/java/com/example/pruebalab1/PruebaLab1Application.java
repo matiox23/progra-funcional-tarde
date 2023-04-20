@@ -10,6 +10,9 @@ public class PruebaLab1Application {
         SpringApplication.run(PruebaLab1Application.class, args);
 
         System.out.println("hola mundo");
+
+
+
     }
 
 
